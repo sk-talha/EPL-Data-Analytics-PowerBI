@@ -18,7 +18,6 @@ This is an end-to-end data analytics project analyzing 8 seasons of English Prem
 * `EPL_Dashboard.pbix` - The final interactive Power BI dashboard.
 
 ## 📊 Dashboard Previews
-*(Drag and drop your Power BI screenshots here when editing on GitHub)*
 
 **Page 1: League Overview**
 <img width="1347" height="777" alt="EPL1" src="https://github.com/user-attachments/assets/36cfe452-fbda-4627-927b-b5a55991b345" />
