@@ -21,13 +21,13 @@ This is an end-to-end data analytics project analyzing 8 seasons of English Prem
 *(Drag and drop your Power BI screenshots here when editing on GitHub)*
 
 **Page 1: League Overview**
-[Insert Page 1 Screenshot]
+<img width="1920" height="1080" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/8bdef902-6e85-4a77-964c-227966c52af8" />
 
 **Page 2: All-Time Team Performance**
-[Insert Page 2 Screenshot]
+<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/9ab76e90-3750-4395-bf38-6ccd0f7a5d01" />
 
 **Page 3: Gameweek Title Race Tracker**
-[Insert Page 3 Screenshot]
+<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/90b7f45f-af67-4922-93d5-c8de8d5f4710" />
 
 ## 🧠 Key Insights Discovered
 1. **[Add Insight 1]** - e.g., Manchester City dominated the 8-year period with the highest overall win percentage.
